@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Adactin Application Test Automation Test Suite">
+
+
+	<test name="Adactin App Test Cases">
+		<classes>
+			<class name="com.adactin.testcases.LoginPageTest"></class>
+			<class name="com.adactin.testcases.SearchHotelPageTest"></class>
+
+
+		</classes>
+	</test>
+</suite>
